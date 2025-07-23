@@ -37,8 +37,8 @@ highlight_theme = "base16-ocean-dark"
 
 [extra]
 
-avatar = "nick_prof.jpg"
-favicon = "img/avatar.jpg"
+avatar = "nick.jpeg"
+favicon = "nick.jpeg"
 
 # Enter your email
 email = "nnguebikob@gmail.com"
