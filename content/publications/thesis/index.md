@@ -5,6 +5,5 @@ date = 2025-07-03
 [extra]
 type = "thesis"
 authors = [ "Nicolas Djob Li Ngue" ]
-pdf="chap1.pdf"
 publication_types = "Thesis"
 +++
