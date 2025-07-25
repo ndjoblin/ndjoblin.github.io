@@ -9,5 +9,5 @@ publication_types = "Conference paper"
 featured = true
 type="journals"
 publication = "2025"
-pdf="chap1.pdf"
+#pdf="chap1.pdf"
 +++

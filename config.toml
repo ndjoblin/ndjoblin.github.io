@@ -37,8 +37,8 @@ highlight_theme = "base16-ocean-dark"
 
 [extra]
 
-avatar = "nick.jpeg"
-favicon = "nick.jpeg"
+avatar = "img/nick.jpeg"
+favicon = "img/nick.jpeg"
 
 # Enter your email
 email = "nnguebikob@gmail.com"
@@ -50,7 +50,6 @@ contact_in_index = true
 menu_items = [
    #{ path = "#contacts", name = "Contact" },
    { path = "cv.pdf", name = "CV" },
-   { path = "Teaching", name = "Teaching" },
 ]
 
 # Translation related extra

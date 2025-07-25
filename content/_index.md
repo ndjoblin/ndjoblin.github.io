@@ -36,5 +36,6 @@ icon = "linkedin"
 link = "https://www.linkedin.com/in/nicolas-djob-li-ngue-bikob-258169297/"
 +++
 
-Hi everyone and welcome to my webpage! I am Nicolas Djob Li Ngue, and I hold a Phd in Economics. I currently work as a Research Assistant at CY Cery Paris Université. I am also member of [THEMA](https://thema.u-cergy.fr/), UMR CNRS 8184.
+Hi everyone and welcome to my webpage! I am Nicolas Djob Li Ngue, and I hold a Phd in Economics at CY Cergy Paris Université. I currently work as a Research Assistant at CY Cery Paris Université. I am also member of [THEMA](https://thema.u-cergy.fr/), UMR CNRS 8184.
 
+My research interest focus on Macroeconomics, International Trade and Optimal Taxation. My current research explores the relevance of tariff barriers between fiscally asymmetric countries, as well as the appropriate taxation principle to adopt—whether origin-based or destination-based.
