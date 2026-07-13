@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ndjoblin.github.io/sitemap.xml
